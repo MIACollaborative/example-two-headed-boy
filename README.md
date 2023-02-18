@@ -5,7 +5,7 @@ Run
 to see the "Agent" version
 or 
 `$ npm run start-oldschool`
-to see the "Old Schoo" version
+to see the "Old School" version
 
 Note that both versions share the same "Settings" screen.
 

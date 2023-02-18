@@ -1,4 +1,16 @@
-## Key points
+## To Test
+
+Run 
+`$ npm run start-agent`
+to see the "Agent" version
+or 
+`$ npm run start-oldschool`
+to see the "Old Schoo" version
+
+Note that both versions share the same "Settings" screen.
+
+
+## Key Points
 
 1. See the 'start-agent' and 'start-oldschool' scripts in package.json. Note how they set the environment variable 'HS_VARIANT' before invoking 'npx expo start'.
 
